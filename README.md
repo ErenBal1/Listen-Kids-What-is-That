@@ -1,5 +1,5 @@
 # Listen Kids: What is That?
-Mobile Application for Teaching Children Certain Sounds
+Mobile Application for Teaching Children Certain Sounds with Flutter
 
 ![Adsız tasarım](https://github.com/ErenBal1/Listen-Kids-What-is-That/assets/128086424/2a94a074-b399-4972-8a98-43450b55dfde)
 
